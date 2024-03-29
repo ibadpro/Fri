@@ -1,3 +1,3 @@
 # Fri
 Construction website
-(https://github.com/ibadpro/Fri/
+ https://ibadpro.github.io/Fri/
